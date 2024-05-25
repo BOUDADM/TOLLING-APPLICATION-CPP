@@ -1,8 +1,5 @@
 # XMLPARZER
 
-## RoadMap
-![ID PINGER ROADMAP](XMLPARZER.PNG)
-
 
 ## troduction 
 
