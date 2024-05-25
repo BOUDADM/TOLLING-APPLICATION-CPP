@@ -66,25 +66,3 @@ void printXml(const XmlNode& node, int depth = 0) {
     }
 }
 
-int main() {
-    std::string xmlInput = R"(
-<ECUData>
-    <ECU id="1">
-        <Name>Engine Control Unit</Name>
-        <Temperature>85</Temperature>
-        <FuelLevel>2</FuelLevel>
-    </ECU>
-    <ECU id="2">
-        <Name>Transmission Control Unit</Name>
-        <Temperature>70</Temperature>
-        <OilPressure>40</OilPressure>
-    </ECU>
-</ECUData>
-)";
-
-    size_t pos = 0;
-
-    XmlNode root;
-    parseXml(xmlInput, pos, root);
-
-}
