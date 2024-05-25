@@ -1,9 +1,5 @@
 # Euler Transformation in Automotive Engineering 
 
-## RoadMap
-![ID PINGER ROADMAP](EulerRotation.PNG)
-
- 
 
 ## Problematic Statement: 
 
