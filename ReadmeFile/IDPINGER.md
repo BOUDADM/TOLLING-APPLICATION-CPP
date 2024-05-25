@@ -1,8 +1,5 @@
 # ID PINGER
 
-## Roadmap
-
-![ID PINGER ROADMAP](IDPINGER.PNG)
 
 ## Introduction
 
