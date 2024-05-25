@@ -1,9 +1,5 @@
 # DATA SERIALIZATION
 
-## Roadmap 
-![ID PINGER ROADMAP](DATASERIAL.PNG)
-
-
 ## Overview 
 
 Data serialization is the process of converting data structures or objects into a format that can be easily stored, transmitted, or reconstructed. JSON (JavaScript Object Notation) is a lightweight data interchange format commonly used for data serialization due to its simplicity and human-readable format. This documentation outlines the process of serializing data using JSON, with a focus on security and schema encryption. 
